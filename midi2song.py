@@ -16,6 +16,9 @@ PIECES = [
     ("nocturne_op9_1.mid", "녹턴 Op.9 No.1 (쇼팽)", f"{MUTOPIA} · Benjamin D. Esham · CC BY-SA 2.5"),
     ("moonlight1.mid", "월광 소나타 1악장 (베토벤)", f"{MUTOPIA} · Stewart Holmes · CC BY-SA 2.5"),
     ("gymnopedie1.mid", "짐노페디 1번 (사티)", f"{MUTOPIA} · Evin Robertson · Public Domain"),
+    # 아래 둘은 사람이 실제로 친 연주 기록이에요. 비상업적 용도로만 쓸 수 있어요 (NC).
+    ("bumblebee.mid", "왕벌의 비행 (림스키코르사코프 · 라흐마니노프 편곡)", "MAESTRO v3 연주 기록 · CC BY-NC-SA 4.0"),
+    ("pavane.mid", "죽은 왕녀를 위한 파반느 (라벨)", "ASAP dataset 연주 기록 (ChenS03) · CC BY-NC-SA 4.0"),
 ]
 
 
